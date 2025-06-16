@@ -1,0 +1,27 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Django-specific
+*.log
+media/
+models/
+# Model files
+*.pt
+*.pth
+*.h5
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# Environment
+.env
